@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         EspañaDuero Kill virtual keyboard
+// @name         Unicaja Kill virtual keyboard
 // @namespace    https://github.com/DiCrEn/espanaDueroVirtualKeyKiller/
-// @version      0.1
-// @description  Pequeño script para el navegador para quitar el molesto teclado virtual de la web www.espanaduero.es y poder acceder escribiendo la contraseña con el teclado físico.
+// @version      0.2
+// @description  Pequeño script para el navegador para quitar el molesto teclado virtual de la web www.unicajabanco.es y poder acceder escribiendo la contraseña con el teclado físico.
 // @author       DiCrEn
-// @match        https://www.espanaduero.es/*
+// @match        https://www.unicajabanco.es/*
 // @grant        none
 // ==/UserScript==
 
